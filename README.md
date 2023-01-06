@@ -25,5 +25,5 @@ MIT License
 
 
 ## Website
-The URL is shown below: https://haozhe-h.github.io/Work-Day-Schedule/
+The URL is shown below: https://haozhe-h.github.io/Work-Day-Schedule-New/
 
